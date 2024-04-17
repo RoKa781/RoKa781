@@ -3,7 +3,8 @@
 </p>
 
 <h2 align='center'>🏝️ Roman Karnov<br />👋😐</h2>
-<p>
+
 - 💞️ I’m looking to collaborate on [kekas13](https://github.com/kekas13) and [Roziener](https://github.com/Rozinoer)
-</p>
+
+
 
